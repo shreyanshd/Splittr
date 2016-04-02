@@ -1,2 +1,2 @@
 # S p l i t t r
-# expense manager for groups.
+# expense manager and splitter for groups.
